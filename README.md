@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer based in USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandy02&label=Profile%20views&color=0e75b6&style=flat" alt="vandy02" /> </p>
-<p align="right"> <img alt="Coding" width="400" src="https://drive.google.com/file/d/1ht0_FxI40dqcIz_6MfPN9sDeGaD8oRgY/view?usp=sharing" /> </p>
+<p align="right"> <img alt="Coding" width="400" src="https://x.com/vandycodes/photo" /> </p>
 
 - 🔭 I’m currently working on [Golang and React App](https://github.com/Vandy02/Golang-React-Todo)
 
