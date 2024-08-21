@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer based in USA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandy02&label=Profile%20views&color=0e75b6&style=flat" alt="vandy02" /> </p>
-<p align="right"> <img alt="Coding" width="400" src="https://pbs.twimg.com/profile_images/1821450543585173504/az05cBpn_400x400.jpg" /> </p>
+<!-- <p align="right"> <img alt="Coding" src="https://pbs.twimg.com/profile_images/1821450543585173504/az05cBpn_400x400.jpg" /> </p> 
 
 - 🔭 I’m currently working on [Golang and React App](https://github.com/Vandy02/Golang-React-Todo)
 
