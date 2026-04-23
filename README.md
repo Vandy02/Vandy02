@@ -4,15 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandy02&label=Profile%20views&color=0e75b6&style=flat" alt="vandy02" /> </p>
 <!-- <p align="right"> <img alt="Coding" src="https://pbs.twimg.com/profile_images/1821450543585173504/az05cBpn_400x400.jpg" /> </p> -->
 
-- 🌱 I’m currently learning **Javascript, Typescript, Golang**
+- 🌱 I’m currently learning **Prompt Engineering, DevOps**
 
-- 👨‍💻 All of my projects are available at [https://vandanakerketta.site//](https://vandanakerketta.site/)
+- 👨‍💻 All of my projects are available at [https://vandanakerketta.com//](https://vandanakerketta.com/)
 
-- 💬 Ask me about **React, DSA**
+- 💬 Ask me about **React, DSA, Full Stack**
 
-- 📫 How to reach me **vandanakerketta02@gmail.com**
+- 📫 How to reach me **vandanakerketta002@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Vj6BI9r1L2yq2cwje0-MZF7LDxji8JUk/view?usp=drive_link](https://drive.google.com/file/d/1Vj6BI9r1L2yq2cwje0-MZF7LDxji8JUk/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yZ2DKCv13AYu42Lfb8ANxPndWHVt-jfF/view?usp=sharing]
 
 - ⚡ Fun fact **I love anime and Pokemon Go.**
 
