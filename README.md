@@ -16,10 +16,10 @@
   
 - ### 🌟 When I'm Not Coding
 I believe the best engineers are well-rounded. Off the clock, you can find me:
-- 🍳 Building and Hosting an Indian supper club, **Table For One More** where we curate culinary experiences, host dinners, and bring people together over great food.
+- 🍳 Building and Hosting an Indian supper club, **[Table For One More](https://instagram.com/table41more)** where we curate culinary experiences, host dinners, and bring people together over great food.
 - 📸 Creating travel and lifestyle UGC (User-Generated Content) for social media.
-- 🚶‍♀️ Keeping up with my daily fitness routine and morning walks.
-- 🍿 Analyzing the latest movies and sharing reviews.
+- 🚶‍♀️ Keeping up with my daily fitness routine.
+- 🍿 Analyzing the latest movies and sharing reviews on **[Letterboxd](https://letterboxd.com/vandy02)**.
 
   
 <h3 align="left">Connect with me:</h3>
