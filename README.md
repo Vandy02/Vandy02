@@ -17,9 +17,8 @@
 - ⚡ Fun fact **I love anime and Pokemon Go.**
 
 <h3 align="left">Connect with me:</h3>
-<p>
-<a href="https://twitter.com/vandycodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vandycodes" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/vandanakerketta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vandanakerketta" height="30" width="40" /></a>
-
+<p align="left">
+<a href="https://www.linkedin.com/in/vandanakerketta/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vandanakerketta" height="30" width="40" /></a><a href="https://twitter.com/vandycodes" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vandycodes" height="30" width="40" /></a><a href="https://instagram.com/its_vandy" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a><a href="https://github.com/Vandy02" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="vandy02" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
