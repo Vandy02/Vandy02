@@ -10,15 +10,19 @@
 
 - 💬 Ask me about **React, DSA, Full Stack**
 
-- 📫 How to reach me **vandanakerketta002@gmail.com**
+- 📫 How to reach me **vandanakerketta02@gmail.com**
 
 - 📄 Know about my experiences: [View My Resume Here](https://drive.google.com/file/d/1JBRBo7wuGrx1RXCIRotXT_oPkr7wTRkZ/view?usp=sharing)
   
 - ### 🌟 When I'm Not Coding
 I believe the best engineers are well-rounded. Off the clock, you can find me:
+
 - 🍳 Building and Hosting an Indian supper club, **[Table For One More](https://instagram.com/table41more)** where we curate culinary experiences, host dinners, and bring people together over great food.
+  
 - 📸 Creating travel and lifestyle UGC (User-Generated Content) for social media.
+  
 - 🚶‍♀️ Keeping up with my daily fitness routine.
+  
 - 🍿 Analyzing the latest movies and sharing reviews on **[Letterboxd](https://letterboxd.com/vandy02)**.
 
   
