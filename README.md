@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences: [View My Resume Here](https://drive.google.com/file/d/1JBRBo7wuGrx1RXCIRotXT_oPkr7wTRkZ/view?usp=sharing)
   
-- <h1>🌟 When I'm Not Coding </h1>
+- <h4>🌟 When I'm Not Coding </h4>
 I believe the best engineers are well-rounded. Off the clock, you can find me:
 
 - 🍳 Building and Hosting an Indian supper club, **[Table For One More](https://instagram.com/table41more)** where we curate culinary experiences, host dinners, and bring people together over great food.
