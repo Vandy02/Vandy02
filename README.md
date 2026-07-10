@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vandana / Vandy</h1>
-<h3 align="center">Full Stack Developer based in USA</h3>
+<h3 align="center">Full Stack Developer based in India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vandy02&label=Profile%20views&color=0e75b6&style=flat" alt="vandy02" /> </p>
 <!-- <p align="right"> <img alt="Coding" src="https://pbs.twimg.com/profile_images/1821450543585173504/az05cBpn_400x400.jpg" /> </p> -->
