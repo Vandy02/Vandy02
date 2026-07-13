@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vandanakerketta02@gmail.com**
 
-- 📄 Know about my experiences: [View My Resume Here](https://drive.google.com/file/d/1JBRBo7wuGrx1RXCIRotXT_oPkr7wTRkZ/view?usp=sharing)
+- 📄 Know about my experiences: [View My Resume Here](https://drive.google.com/file/d/1GcOhiBWniuyDJ7zOKyDu0QV9EwvWclM7/view?usp=sharing)
   
 - <h4>🌟 When I'm Not Coding </h4>
 I believe the best engineers are well-rounded. Off the clock, you can find me:
